@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+deepface
+tensorflow
+gradio
+numpy
